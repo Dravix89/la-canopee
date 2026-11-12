@@ -21,7 +21,7 @@ Prototype fonctionnel de site web associatif dédié à la protection de la natu
 
 ![Aperçu du site La Canopée](./public/apercu.jpg)
 
-**[Ouvrir le site en ligne](https://la-canopee.vercel.app/)**
+**[Ouvrir le site en ligne](https://la-canopee-green.vercel.app/)**
 
 </div>
 
@@ -115,7 +115,7 @@ API :
 ## Structure du projet
 
 ```
-lacanopee/
+la-canopee/
 ├── app/
 │   ├── api/
 │   │   ├── auth/            # register, login, logout, forgot, reset
@@ -165,7 +165,7 @@ Prérequis : **Node.js 20 ou plus récent** et **npm**.
 ```bash
 # 1. Cloner le dépôt
 git clone https://github.com/Dravix89/la-canopee.git
-cd lacanopee
+cd la-canopee
 
 # 2. Installer les dépendances
 npm install
@@ -233,7 +233,7 @@ Le style repose sur une identité visuelle propre :
 
 ## Déploiement
 
-Voir le site : [https://la-canopee.vercel.app/](https://la-canopee.vercel.app/)
+Voir le site : [https://la-canopee-green.vercel.app/](https://la-canopee-green.vercel.app/)
 
 ---
 
